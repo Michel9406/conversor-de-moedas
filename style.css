@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2? family= Agbalumo & family= Krona+One & family= Montserrat:wght@400;600 & display=swap');
+
+
+
+body {
+  font-family: 'Agbalumo', sans-serif;
+    min-height: 400px;
+    padding: 100px;
+    gap: 10px;
+    background-image: url("");   
+    background-color: black;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 2px;
+    height: 100vh;
+  }
+  
+  .pagina-titulo {
+    color:rgb(248, 252, 29); 
+    margin: 0 0 5px;
+
+  }
+  
+  .pagina-subititulo {
+    color: #ffffff;
+    margin-top: 1px;
+    font-size: 20px;
+   height: 50px;
+  }
+  
+  .pagina-logo {
+    width: 40%;
+    
+  }
+
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 10px;
+    height: 30px;
+  }
+  
+  label {
+    color: rgb(248, 252, 29);
+    font-size: 25px;
+  }
+  
+  button {
+    font-size: medium;
+    width: 100px;
+    height: 40px;
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  button:hover {
+    background-color:rgb(248, 252, 29);
+  }
+  h2 {
+    color: #ffffff;
+    font-size: 20px;
+  }
